@@ -1,12 +1,14 @@
   body {
     font-family: sans-serif;
   }
-  h1 {
+  .hero h1 {
     padding-top: 200px;
     font-family: Roboto;
     font-weight: 700;
+    font-size: 100px;
   }
-  h3 {
+  .hero h3 {
+ 
     font-family: Roboto;
     font-weight: 400;
   }
@@ -25,3 +27,21 @@
   height: auto;
   border-radius: 55%;
  }
+ .footer-nav {
+  text-decoration: none;
+  color: white;
+ }
+ .links-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.links-container a {
+  margin: 5px;
+  padding: 15px 20px;
+  color: white;
+  border-radius: 6px;
+  text-decoration: none;
+}
