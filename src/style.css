@@ -33,7 +33,6 @@
  }
  .links-container {
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
@@ -43,5 +42,4 @@
   padding: 15px 20px;
   color: white;
   border-radius: 6px;
-  text-decoration: none;
 }
