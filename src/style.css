@@ -1,0 +1,21 @@
+  body {
+    font-family: sans-serif;
+  }
+  h1 {
+    padding-top: 200px;
+  }
+  img {
+    padding-top: 160px;
+  }
+  a {
+    cursor: pointer;
+  }
+  .navbar.bg-purple {
+    background-color: #8012ff;
+  }
+  
+ #cassie-round {
+  width: 350px;
+  height: auto;
+  border-radius: 55%;
+ }
