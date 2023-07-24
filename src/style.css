@@ -3,6 +3,12 @@
   }
   h1 {
     padding-top: 200px;
+    font-family: Roboto;
+    font-weight: 700;
+  }
+  h3 {
+    font-family: Roboto;
+    font-weight: 400;
   }
   img {
     padding-top: 160px;
