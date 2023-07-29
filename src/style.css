@@ -12,6 +12,9 @@
     font-family: Roboto;
     font-weight: 400;
   }
+  .about {
+    padding-top: 160px;
+  }
   img {
     padding-top: 160px;
   }
@@ -42,4 +45,9 @@
   padding: 15px 20px;
   color: white;
   border-radius: 6px;
+}
+.life-image {
+  height: 550px;
+  width: 300px;
+  border-radius:10%;
 }
