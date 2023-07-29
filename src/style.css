@@ -15,9 +15,7 @@
   .about {
     padding-top: 160px;
   }
-  img {
-    padding-top: 160px;
-  }
+  
   a {
     cursor: pointer;
   }
@@ -34,7 +32,6 @@
   text-decoration: none;
   color: white;
  }
- .links-container {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -47,7 +44,7 @@
   border-radius: 6px;
 }
 .life-image {
-  height: 550px;
-  width: 300px;
-  border-radius:10%;
-}
+ margin-top: 95px;
+  height: 500px;
+  width: 400px;
+border-radius: 15%;}
